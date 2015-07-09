@@ -40,7 +40,23 @@ Okay, saved? Congratulations, you now have the very latest version of this repos
 
 #### A note about branches...
 
+In my training repo, and in the `Data-for-stories` repo, we have two branches. That basically means there are two versions of the repo that the public can see. 
 
+The first one, the default, is `master`. It's the final version of the repo, the one that we point the public to when we link to the data from our stories. 
+
+The second one is `staging`. **This is where you'll all be working.** Every time you push a new folder or a change, it will be to the `staging branch. This is the working branch, the one where, if there are conflicting versions of the repo, or if you need Jordan or I to look at something before it's added to `master`, any issues get resolved. 
+
+**You'll always be working in the `staging` branch.**
+
+In that spirit, let's make sure we're in the staging branch. At the top of the GitHub app window, you should see something that looks like this:
+
+![](/images/master.png)
+
+Click master, and select staging instead. 
+
+![](/images/staging.png)
+
+From now on, before you make any changes, make sure that you're working in the staging branch. 
 
 Now you can start adding your own data! 
 
@@ -54,6 +70,6 @@ Save that file as README.md into the folder you just created, `my-test-folder-Yo
 
 *In the future, you'll use the README to give an explanation of the contents of the folder. You'll also put your CSV and XLS files for your data into this folder.  Again, we'll come back to that. For now, we're just practicing the steps.*
 
-### Step 3: Introducing Branches
+### Step 3
 
 Now, go back to your GitHub app. 
