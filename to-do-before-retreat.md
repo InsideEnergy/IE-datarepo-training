@@ -25,4 +25,4 @@ Voila! You're now ready to use Github, with an easy desktop interface. This mean
 
 ### 3. Send me your new info. 
 
-Slack me **your new Github username**, so that I can add you as a collaborator on the two repos we'll be playing with over the retreat. Also send me **whether you use PC or Mac**. 
+Slack me **your new Github username**, so that I can add you as a collaborator on the two repos we'll be playing with over the retreat.
