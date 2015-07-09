@@ -2,7 +2,7 @@
 
 ![](/images/i-want-to-commit.jpg)
 
-We'll start off by learning how to add a folder to a GitHub repository. This is the basic process you'll go through each time you do a data story - you'll add a new folder to our main Data-for-stories repo with all of your data. We'll talk later about what that folder should look like.
+We'll start off by learning how to add a folder to a GitHub repository. This is the basic process you'll go through each time you do a data story - you'll add a new folder to our main `Data-for-stories` repo with all of your data. We'll talk later about what that folder should look like.
 
 For now, we'll practice with my training repo. 
 
@@ -44,7 +44,7 @@ In my training repo, and in the `Data-for-stories` repo, we have two branches. T
 
 The first one, the default, is `master`. It's the final version of the repo, the one that we point the public to when we link to the data from our stories. 
 
-The second one is `staging`. **This is where you'll all be working.** Every time you push a new folder or a change, it will be to the `staging branch. This is the working branch, the one where, if there are conflicting versions of the repo, or if you need Jordan or I to look at something before it's added to `master`, any issues get resolved. 
+The second one is `staging`. **This is where you'll all be working.** Every time you push a new folder or a change, it will be to the `staging` branch. This is the working branch, the one where, if there are conflicting versions of the repo, or if you need Jordan or I to look at something before it's added to `master`, any issues get resolved. 
 
 **You'll always be working in the `staging` branch.**
 
@@ -73,3 +73,33 @@ Save that file as README.md into the folder you just created, `my-test-folder-Yo
 ### Step 3
 
 Now, go back to your GitHub app. 
+
+In the staging branch, you should see your changes! It will look something like this:
+
+![](/images/new-changes.png)
+
+The GitHub app recognizes that you've changed something in your local directory. Now it's asking you which changes you want to send back to the remote. You have to "commit" to adding the changes to the remote branch. 
+
+Look down at the bottom of the window. In the "Summary" field, type a little description of the changes you want to commit. This helps other who're looking at the remote repo understand what you've done. You can type something like, "added my test folder"
+
+![](/images/commit-message.png)
+
+Now you're ready to commit! (Finally, amirite?)
+
+Click the `Commit to staging` button.
+
+### Step 4
+
+Your changes still aren't on the remote branch yet! We have one more step to go. We've committed the changes we've made, but we still haven't pushed them to the remote. Back at the top of the window, you should see something like this:
+
+![](/images/unsynced.png)
+
+Click on unsynced. You should see your change again. All we have left to do is sync! Look up to the very top right corner of your windown.
+
+![](/images/sync.png)
+
+Click sync.
+
+Congratulations! You've just made your very first GitHub contribution. 
+
+![](http://media.giphy.com/media/PTZjY7PZ03xNm/giphy.gif)
