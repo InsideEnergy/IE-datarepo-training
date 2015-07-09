@@ -1,6 +1,6 @@
 # Name of the Folder
 
-Longer description - give geophraphies included and years of data, if applicable.
+Longer description - give geographies included and years of data, if applicable.
 
 ### What's in this folder?
 
