@@ -103,3 +103,19 @@ Click sync.
 Congratulations! You've just made your very first GitHub contribution. 
 
 ![](http://media.giphy.com/media/PTZjY7PZ03xNm/giphy.gif)
+
+You can go to the GitHub page online, and see your new folder inside the `staging` branch of `IE-datarepo-training`.
+
+### One last thing...
+
+Now you need to let Jordan or I know that you've added a folder, so that we can update the master. To do that, you need to make a pull request. 
+
+On the page where you can see the staging branch, you should see in the middle somewhere an icon for "pull request":
+
+![](/images/pull-request.png)
+
+Click it. You'll be asked to give a desciption - this can be the same as the one you wrote for the commit. 
+
+Scroll down a little bit, and click the green "Create pull request" button. 
+
+And now, you're done! We'll handle the response to your pull request on our end.
