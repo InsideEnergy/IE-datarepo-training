@@ -58,9 +58,37 @@ If you're interested in playing with the style of your README, I added a [Markdo
 
 Now, look back. Do you have a .CSV, an .XLSX, and a README.md file in your folder (and extra .CSV and .XLSX files if your story has more than one graph)? Yes?
 
-Great! 
+**Great!**
 
 ![](http://media.giphy.com/media/4la2AJWCtl8Pu/giphy.gif)
+
+### Step 3
+
+Now it's time to make sure you have the most recent version of `Data-for-stories`. 
+
+##### Pull the latest repo from the remote. 
+
+It's easy. In your GitHub app, navigate to `Data-for-stories` using the left side of the screen.
+
+![](/images/nav.png)
+
+Now, in the GitHub app's menu bar, click Repository, and select Pull.
+
+![](/images/pull.png)
+
+Now your local Data-for-stories directory should be up to date with the public remote version. To check, go to the [GitHub page](https://github.com/InsideEnergy/Data-for-stories), take a quick look at the list of folders and files, and make sure they match up with what you have on saved on your machine in your local directory. 
+
+Now it's time to push your new folder!
+
+### Step 4
+
+[We've done this before](https://github.com/catharob/IE-datarepo-training/blob/master/your-first-commit.md), so you can refresh yourself on the process if you need to.
+
+##### Get in the right branch!
+
+
+
+In your GitHub app, make sure you're working in the `staging` branch and NOT the `master`. (You can change branches at the top of the window.)
 
 
 
