@@ -6,6 +6,14 @@ We'll start off by learning how to add a folder to a GitHub repository. This is 
 
 For now, we'll practice with my training repo. 
 
+## Why are you making me do this?
+
+**Good question!**
+
+The best way to think of this process is as showing your work. In the same way that we always cite where we get photos and graphics, we also want to be as transparent as possible about how we reached the conclusions that data can lead us to.
+
+Various media outlets are doing this to different degrees. Few, however, are doing it in a systematic way, both as far as making data available and directing users to it. We'd like to be one of the first to make this a standard process and a routine part of our reporting.
+
 ### A bit about how GitHub works
 
 GitHub allows us to clone local directories (folders on our computers) and host them remotely (on the web), so that others can see and do stuff with them. A GitHub repository has a lot of great built-in features that facilitate collaboration on projects as well as easy version control.
