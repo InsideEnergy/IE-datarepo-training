@@ -12,7 +12,7 @@ So! Go to: [https://github.com/join](https://github.com/join), and make your acc
 
 You'll be asked to choose your plan. Just go with the default setting - a free account. All that means is that everything you do is public (no private repositories). That fits with our general ethos of transparency, anyhow.
 
-### 2. Donwload the Github desktop app.
+### 2. Download the Github desktop app.
 
 Go [here for Mac](https://mac.github.com/).
 Go [here for PC](https://windows.github.com/).
