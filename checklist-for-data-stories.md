@@ -1,6 +1,16 @@
 # Checklist for Every Story
 
-Here is what you should do for **every story you file that includes a data vizualization**. Eventually we also want to do this with any story that uses any data that we've analyzed, even if there isn't a graph. 
+### Every story, really? When am I actually required to do this?
+
+Essentially, you'll be doing this for every story that you write that includes a data vizualization - one of our rad graphs. Think of this as simply writing the caption for your data viz image - knowing that this will be a slightly more time-consuming caption than you're used to.
+
+You'll want to get this all ready to go before you publish your story, so that you can publish WITH the "Get the data" module functional beneath any and all graphs. 
+
+##### Sometimes you'll want to do this for stories without graphs. 
+
+You don't have to do this every time we use any statistic at all. A sentence that gives the unemployment rate in North Dakota would not warrant an entire page of the repository. But, any time there is some substantial data analysis, even if it doesn't make it into the story in graph form, you will want to add the data to our GitHub repo and make a note at the bottom of the story in our standard grey extras box. A good example is [Dan's story](http://insideenergy.org/2015/06/22/in-oilfield-towns-a-boom-in-flame-resistant-clothing/), in which it took a fair amount of data wrangling to be able to give a fact about the number of fire and explosion oil and gas deaths. 
+
+Right now, though, we'll go through the process as though we have a dataset that we've made into a graph. In fact, you'll all go through it now with one of our old datasets, so that by the end of today, our `Data-for-stories` repo will be substantially more complete. Woo!
 
 ### Step 0
 
@@ -26,7 +36,7 @@ The files we make available for download using GitHub should look as clean and s
 
 ![](/images/bls.png)
 
-All that stuff at the top is important, but makes more sense for us to include in the notes that go with these data files, instead of in the files themselves. So, cleaned up, this should look like:
+All that stuff at the top is important, but it makes more sense for us to include that information in the notes that go with these data files, instead of in the files themselves. So, cleaned up, this should look like:
 
 ![](/images/bls-clean.png)
 
@@ -130,7 +140,7 @@ On our GitHub page, click into the folder you just added in the `staging` branch
 
 ##### Merge, if possible. 
 
-Now, it might be the case that your changes don't conflict with anything anyone else has done (likely, if you remembered to pull the most recent version of the remote repo). If that's the case, then after you pull request, you might see this:
+Now, it might be the case that your changes don't conflict with anything anyone else has done (likely, if you remembered to pull the most recent version of the remote repo). If that's the case, then after you make your pull request, you might see this:
 
 ![](/images/merge.png)
 
@@ -158,7 +168,7 @@ Copy and paste the data from the CSV or Execl file into the sheet.
 
 Name the sheet with the date you published the story and the same short description you used for the folder you added to `Data-for-stories`. 
 
-Now, change the sharing settings so that anyone on the web can see but not edit the spreadsheet.
+Now, change the sharing settings so that anyone on the web can see, but not edit, the spreadsheet.
 
 ![](/images/sheets.png)
 

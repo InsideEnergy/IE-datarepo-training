@@ -10,7 +10,7 @@ This is the raw data (and code if applicable) used in the Inside Energy story [S
 
 Source: [Source Name](source.url)
 
-If you have to make a query for a dataset and the source does not provide you a permalink for the table you found (like for some BLS data), you should describe the steps you took in the query to get to the data. See [what I did here](coming.soon).
+If you have to make a query for a dataset and the source does not provide you a permalink for the table you found (like for some BLS data), you should describe the steps you took in the query to get to the data. See [what I did here](https://github.com/InsideEnergy/Data-for-stories/tree/master/20150702-oilgas-jobs-dip).
 
 ### Data Dictionary
 
