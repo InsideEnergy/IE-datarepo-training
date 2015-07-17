@@ -22,7 +22,7 @@ Use the naming convention for folders inside [`Data-for-stories`](https://github
 
 `YYYYMMDD-short-description` 
 
-The date should be the **date you published the story to our site**.
+The date should be the **date you publish the story to our site**.
 
 Use hyphens for spaces and all lower-case. The description for the folder name should be as short and as clear as possible.
 
@@ -194,7 +194,7 @@ Then, that code should go directly under the graph that uses this data.
 
 ### Step 8
 
-Update the story and check to make sure the links are working. 
+Publish the story and check to make sure the links are working. 
 
 # You're done!!!!
 
