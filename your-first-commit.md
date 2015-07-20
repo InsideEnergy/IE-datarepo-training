@@ -10,9 +10,9 @@ For now, we'll practice with my training repo.
 
 **Good question!**
 
-The best way to think of this process is as showing your work. In the same way that we always cite where we get photos and graphics, we also want to be as transparent as possible about how we reached the conclusions that data can lead us to.
+Think of this process as showing your work. In the same way that we always cite where we get photos and graphics, we also want to be as transparent as possible about how we reached the conclusions that data can lead us to.
 
-Various media outlets are doing this to different degrees. Few, however, are doing it in a systematic way, both as far as making data available and directing users to it. We'd like to be one of the first to make this a standard process and a routine part of our reporting.
+Various media outlets are doing this to different degrees. Few, however, are doing it in a systematic way, as far as making data available and directing users to it. We'd like to be one of the first to make this a standard process and a routine part of our reporting.
 
 ### A bit about how GitHub works
 
@@ -22,7 +22,7 @@ Eventually, each of you will clone the remote directory `insideenergy/Data-for-s
 
 #### Key thing to keep in mind
 
-When it's time for you to add a new folder full of [awesome data](http://137.189.35.203/WebUI/CatDatabase/catData.html), you always want to make sure that the local directory you're working with on your computer is up to date with the remote public directory. This is **super important**, because otherwise you could potentially erase someone else's recent addition by pushing an older version of the directory. 
+When it's time for you to add a new folder full of [awesome data](http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html), you always want to make sure that the local directory you're working with on your computer is up to date with the remote public directory. This is **super important**, because otherwise you could potentially erase someone else's recent addition by pushing an older version of the directory. 
 
 Don't worry too much about that just this second. We'll go over it more later. 
 
@@ -44,6 +44,8 @@ You'll be asked to allow the page to launch your GitHub application, which you a
 
 Next you need to pick a location to save your local directory. It doesn't matter where this is, and you can move it around if you need to. I have a GitHub folder where I keep all my local directories. 
 
+**Check in: has this worked for everyone?**
+
 Okay, saved? Congratulations, you now have the very latest version of this repository. 
 
 #### A note about branches...
@@ -52,7 +54,9 @@ In my training repo, and in the `Data-for-stories` repo, we have two branches. T
 
 The first one, the default, is `master`. It's the final version of the repo, the one that we point the public to when we link to the data from our stories. 
 
-The second one is `staging`. **This is where you'll all be working.** Every time you push a new folder or a change, it will be to the `staging` branch. This is the working branch, the one where, if there are conflicting versions of the repo, or if you need Jordan or I to look at something before it's added to `master`, any issues get resolved. 
+The second one is `staging`. **This is where you'll all be working.** Every time you push a new folder or a change, it will be to the `staging` branch. This is the working branch, the one where, if there are conflicting versions of the repo, or if you need Jordan or I to look at something before it's added to `master`, any issues get resolved.
+
+In order to see which branch you're in, check the top of your GitHub app window. Does it say `staging` or `master`? 
 
 **You'll always be working in the `staging` branch.**
 
@@ -112,11 +116,11 @@ Congratulations! You've just made your very first GitHub contribution.
 
 ![](http://media.giphy.com/media/PTZjY7PZ03xNm/giphy.gif)
 
-You can go to the GitHub page online, and see your new folder inside the `staging` branch of `IE-datarepo-training`.
+You can go to the [GitHub page online](https://github.com/catharob/IE-datarepo-training/tree/staging), and see your new folder inside the `staging` branch of `IE-datarepo-training`.
 
 ### One last thing...
 
-Now you need to let Jordan or I know that you've added a folder, so that we can update the master. To do that, you need to make a pull request. 
+Now you need to let Jordan or I know that you've added a folder, so that we can update the master. To do that, you need to make a pull request. **This happens on the GitHub wepage - the remote (not the local, and not your GitHub app).**
 
 On the page where you can see the staging branch, you should see in the middle somewhere an icon for "pull request":
 
