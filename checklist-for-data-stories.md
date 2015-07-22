@@ -138,17 +138,7 @@ On our GitHub page, click into the folder you just added in the `staging` branch
 
 ![](/images/pr-comment.png)
 
-##### Merge, if possible. 
-
-Now, it might be the case that your changes don't conflict with anything anyone else has done (likely, if you remembered to pull the most recent version of the remote repo). If that's the case, then after you make your pull request, you might see this:
-
-![](/images/merge.png)
-
-That's great! GitHub is actually pretty smart about seeing exactly which lines of new code or text conflict with each other. If it doesn't find anything weird, it will let you merge without going though me or Jordan. That makes everything great for all of us. 
-
-So if you see the option above, by all means, click it!
-
-Now your changes should be in both the `staging` and `master` branches.
+Now, Jordan and I will be able to see that you've added data. We'll finish the merging, and then let you know once your data is in both `staging` and `master`. Once your new folder is indeed in `master`, you can move on to...
 
 ### Step 6
 
