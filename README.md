@@ -6,6 +6,7 @@
 * `your-first-commit`: Step-by-step walkthrough of process of committing new data to our main data repository. In this training, you'll practice with my training repo.
 * `checklist-for-data-stories`: **Most important instructions going forward** - these are the steps you'll take every time you make a graph or use data in a substantial way in a story.
 * `template-README`: A template you can use to make a README each time you add a new folder of data to our main repo.
+* `get-the-data-widget-code`: Code for Wordpress to use when adding the "Get the data" widget to your graphs.
 * `markdown-cheatsheet-online.pdf`: Quick list of styling commands for Markdown, the language in which you'll write your READMEs.
 * `troubleshooting`: Any time anyone has a question, after I get you the answer, I'll post both the question and the answer here so that others can see, in case they have the same question.
 
