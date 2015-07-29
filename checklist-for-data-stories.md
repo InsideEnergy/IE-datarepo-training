@@ -100,7 +100,9 @@ In your GitHub app, make sure you're working in the `staging` branch and NOT the
 
 ##### Add your new folder to your local directory.
 
-Drag your new folder (the one that contains your cleaned data files and README) into your local `Data-for-stories` directory. Now, in you GitHub app, you should be able to see the folder listed under "changes".
+Drag your new folder (the one that contains your cleaned data files and README) into your local `Data-for-stories` directory - **that's your `Data-for-stories` folder in on your local machine - don't drag your folder into the GitHub app window.** The folder drag-and-drop should all happen in Finder windows.
+
+Once your new folder is inside your local `Data-for-stories` folder (the one you see in the Finder, that lives on your computer), now look at your GitHub app. You should be able to see the new folder you made listed under "changes".
 
 ### Step 4.5
 
@@ -158,6 +160,8 @@ Copy and paste the data from the CSV or Execl file into the sheet.
 
 Name the sheet with the date you published the story and the same short description you used for the folder you added to `Data-for-stories`. 
 
+Change the name of the tab for the sheet - the one at the bottom of the page - to match the name of the sheet in the Excel file you made.
+
 Now, change the sharing settings so that anyone on the web can see, but not edit, the spreadsheet.
 
 ![](/images/sheets.png)
@@ -178,7 +182,7 @@ The capital letter fields are what you should replace. Add the name of the folde
 
 Those URLs, the view-without-editing sharing link for the Google sheet, and the link for the GitHub folder you just made, should be pasted into this code:
 
-`<small><strong> Get the data: <a href="CSV URL YOU JUST MADE">CSV</a> | <a href="XLSX URL YOU JUST MADE">XLS</a> | <a href="GOOGLE SHEETS LINK YOU JUST MADE">Google Sheets</a> | Source and notes: <a href="URL FOR YOUR FOLDER ON GITHUB">Github</a> </strong></small>`
+`<small><strong> Get the data: <a href="CSV URL YOU JUST MADE">CSV</a> | <a href="XLSX URL YOU JUST MADE">XLS</a> | <a href="GOOGLE SHEETS LINK YOU JUST MADE" target="_blank">Google Sheets</a> | Source and notes: <a href="URL FOR YOUR FOLDER ON GITHUB">Github</a> </strong></small>`
 
 Then, that code should go directly under the graph that uses this data. 
 
